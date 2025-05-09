@@ -1,2 +1,2 @@
 # AI-chat-bot
-An AI chat bot using python, react and google gemini.
+An AI chat bot using python(django), react and google gemini.
